@@ -22,7 +22,7 @@ If you want to be able to receive BNB and other supported tokens on the Binance 
 | 1    | Binance Extension Wallet | <https://binance-wallet.gitbook.io/binance-chain-wallet/> | Yes  |
 | 2    | [Trust Wallet](./wallet/trustwallet.md) | <https://trustwallet.com/> | Yes   |
 |3     | [Math Wallet](./wallet/math.md)|<https://mathwallet.org/en-us/>| Yes  |
-|4s     |  [SafePal](https://blog.safepal.io/binance-smart-chain-x-safepal/)|  <https://safepal.io/> | No  |
+|4     |  [SafePal](https://blog.safepal.io/binance-smart-chain-x-safepal/)|  <https://safepal.io/> | No  |
 |5     |[TokenPocket](https://tokenpocket-gm.medium.com/defi-with-tokenpocket-how-to-use-binance-smart-chain-swap-with-tokenpocket-e76d6cd7986)|<https://www.tokenpocket.pro/> |  No  |
 |6 | [Arkane](./wallet/arkane.md)|<https://arkane.network/>|No|
 |7|[MetaMask](./wallet/metamask.md)|<https://metamask.zendesk.com/hc/en-us>|No|
@@ -35,3 +35,4 @@ If you want to be able to receive BNB and other supported tokens on the Binance 
 |14|[BitKeep](./wallet/bitkeep.md) (App&Chrome)|<https://bitkeep.com>|No|
 |15|[Coin98 Wallet](./wallet/coin98wallet.md) (App Web Extension)|<https://coin98.com/wallet>|No|
 |16|[Guarda Wallet](https://guarda.com/coins/binance-coin-wallet/)|<https://guarda.com/coins/binance-coin-wallet/>|No|
+|17|[Bridge-Wallet](./wallet/bridge-wallet.md)|<https://www.mtpelerin.com/bridge-wallet>|No|
